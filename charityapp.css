@@ -1,7 +1,7 @@
  body {
   /*background: #fff url("../img/homeimg.jpg") repeat-x;*/
   background: url("homeimg.jpg") no-repeat fixed center; 
-  background-size: 5000px 3000px;
+  background-size: 100%;
  }
 
  h1 {
